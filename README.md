@@ -12,20 +12,24 @@ Multiple Game Rooms: Create or join different game rooms. Play with friends or c
 
 # How to Start
 
-1.Download Dependencies(Optional):
+1. **Download Dependencies(Optional)**:
 
 Download and include the necessary libraries and frameworks:
 Chessboard.js
 
- 2.Configure Database(Optional):
+2. **Configure Database(Optional)**:
 
 If using a database, set up your database and update the configuration details in the relevant script.
 
-3.Run the Application:
+3. **Run the Application**:
 
 Open the index.html file in your preferred browser to access the platform.
 
-4.Start Playing:
+4. **Start Playing**:
 
 Create or join a game room, invite friends, and start playing chess online!
 
+# Screenshot
+Here we have project screenshot :
+
+![screenshot](screenshot.jpg)
